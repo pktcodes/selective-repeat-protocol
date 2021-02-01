@@ -1,0 +1,6 @@
+Praveen Kumar Thipparam 
+
+About Testing the Program:
+
+1) Opening the entire folder in Eclipse 
+2) Run the file "SelectiveRepeat.java"
