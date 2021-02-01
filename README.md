@@ -22,3 +22,5 @@ SRP works better when the link is very unreliable. Because in this case, retrans
 Description taken from this site: https://www.rpi.edu/locker/75/000475/main/subsubsection3_8_2_3.html
 
 I have made this project as part my coursework CS 420 - Computer Networks
+
+NOTE: Java applets were deprecated since Java 9 in 2017 and removed from Java SE 11 (18.9), released in September 2018.SO, for me it worked with my computer which has Java 8 installed. When I tried to run it on Java 15, it didn't produce the output expected.
